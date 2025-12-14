@@ -1,4 +1,4 @@
-# 🎮 GCMS – Game Center Management System
+# Movie Scope
 
 ![Made with React](https://img.shields.io/badge/Made%20with-React-blue?logo=react&style=flat-square)
 ![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-teal?logo=tailwind-css&style=flat-square)
