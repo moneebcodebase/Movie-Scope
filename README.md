@@ -1,19 +1,18 @@
 # 🎮 GCMS – Game Center Management System
 
-![Made with C#](https://img.shields.io/badge/Made%20with-C%23-blue?logo=csharp&style=flat-square)
-![.NET Framework](https://img.shields.io/badge/.NET%20Framework-4.8-brightgreen?style=flat-square)
-![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red?style=flat-square)
-![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-yellow?style=flat-square)
+![Made with React](https://img.shields.io/badge/Made%20with-React-blue?logo=react&style=flat-square)
+![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-teal?logo=tailwind-css&style=flat-square)
+![Appwrite](https://img.shields.io/badge/Backend-Appwrite-orange?logo=appwrite&style=flat-square)
 ![License MIT](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
 
-GCMS is a powerful C# .NET Framework application designed to streamline and automate the operations of a game center. It handles everything from in-store and take-home game rentals, inventory and product sales, to customer management and administrative controls. Built on a robust SQL Server backend, GCMS ensures secure, efficient, and real-time management of all game center activities.
+MovieScope is a modern web application that allows users to search for movies, explore trending films, and browse up-to-date movie listings. Built with React, styled with TailwindCSS, and powered by Appwrite as the backend, it leverages the TMDB API to provide the latest movie data. The app features search functionality, pagination, and dynamic movie listings, making it an engaging movie discovery platform.
 
 ---
 
 ## 📸 Screenshots
 
-Here are some snapshots of GCMS in action:
+Here are some snapshots of Movie Scope in action:
 
 - **Dashboard:**  
   ![Dashboard](assets/dashboard.png)
